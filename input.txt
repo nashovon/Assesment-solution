@@ -1,0 +1,44 @@
+2
+1 2
+players
+{
+"name":"L. Messi",
+"club":"FC Barcelona",
+"position":"Forward"
+}
+{
+"name":"C. Ronaldo",
+"club":"FC Juventus",
+"age": 37,
+"position": "Forward"
+}
+
+3 2
+users address emails(desc)
+{
+"name":"X",
+"phone":"51874",
+"address":{
+"flat":"A3",
+"house":"50",
+"area":"Dhanmondi",
+"city":"Dhaka"
+},
+"emails":[
+"x@g.co",
+"x@h.co"
+]
+}
+{
+"name":"Y",
+"phone":"44125",
+"address":{
+"flat":"A4",
+"house":"45/B",
+"area":"Uttara",
+"city":"Dhaka"
+},
+"emails":[
+"y@o.co"
+]
+}

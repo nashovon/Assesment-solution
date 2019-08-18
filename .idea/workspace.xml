@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efe96b98-152e-4a70-95f4-bc51b2366983" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/fileContent/annotation-processors.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/build/classes/java/main/com/datasoft/javaengineersassessment/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/build/classes/java/main/com/datasoft/javaengineersassessment/solution/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/build/classes/java/main/com/datasoft/javaengineersassessment/utils/IO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/src/main/java/com/datasoft/javaengineersassessment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/src/main/java/com/datasoft/javaengineersassessment/solution/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assesment-solution/src/main/java/com/datasoft/javaengineersassessment/utils/IO.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assesment-solution" />
+  </component>
+  <component name="ProjectId" id="1PRygVMPiHjihJ8pIwAbC8a3EjM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.datasoft.javaengineersassessment.solution" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datasoft.javaengineersassessment.Main" />
+      <module name="javaengineersassessment.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datasoft.javaengineersassessment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efe96b98-152e-4a70-95f4-bc51b2366983" name="Default Changelist" comment="" />
+      <created>1565851316863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565851316863</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

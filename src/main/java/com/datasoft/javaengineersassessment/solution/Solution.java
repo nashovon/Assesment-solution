@@ -119,24 +119,9 @@ public class Solution implements Runnable {
 
                                      UniqueKeys_nested = Keys_nested.stream().distinct().collect(Collectors.toList());
 
-//                                     System.out.print("id ");
-//
-//                                     for (String Coloumns : UniqueKeys_nested) {
-//
-//                                         if (id == 1) System.out.print(Coloumns + " ");
-//
-//                                     }
-
-//                                     if (id == 1) System.out.println();
-
 
                                      System.out.println((id++) + " " + obj.get(TableNames[TableCounter]) + " ");
 
-                                    // for (String Values : UniqueKeys_nested) {
-
-                                         //if (id == 1) System.out.print("id " + obj.get(Values) + " ");
-
-                                    //}
 
 
                                  } catch (Exception e) {
